@@ -59,13 +59,14 @@ h6 {
     margin-top: 0px;
     margin-bottom: 0px;
     margin-left:15px;
+    margin-right:15px;
     color: #c65d69;
     font-size: 20px;
 }
 
 h7 {
     color: black;
-    font-size: 30px;
+    font-size: 35px;
     margin-top: 10px;
     margin-bottom: -5px;
     margin-left: 10px;
