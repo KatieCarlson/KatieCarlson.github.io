@@ -14,7 +14,7 @@ html {
 }
 
 .h section{
-    background-image: url("bgnd3.jpg");
+    background-image: url("../images/bgnd3.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: left;
